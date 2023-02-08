@@ -120,7 +120,7 @@ http://www.studywithanis.com
 <br/>
 
 ### --- imoji
-<!-- copy to paste from emojipedia -->
+😊
 
 <br/>
 
